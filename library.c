@@ -19,11 +19,12 @@ int main(void){
     }
 
     printf("“K“–‚È‰ð ");
+
+/*  ŒvŽZ   */
     for(cnt = 0 ; cnt < i ; cnt++){
         printf("x[%d] = ",cnt+1);
         scanf("%lf",&ans[cnt]);
     }
-/*  ŒvŽZ   */
 
     return 0;
 }
